@@ -1,36 +1,70 @@
-# 🎥 Vídeo: Transferência de Arquivos por Gestos com IA (Huawei / HarmonyOS)
+# 🎥 Projeto: Transferência de Arquivos por Gestos com IA (Huawei / HarmonyOS)
 
 ## 📒 Descrição
-Este vídeo de 37 segundos apresenta uma visão rápida e envolvente sobre o potencial da tecnologia de **Transferência de Arquivos por Gestos com IA**, integrada ao HarmonyOS da Huawei. A proposta é demonstrar, de forma visual e futurista, como a interação humano-máquina está evoluindo com o uso de inteligência artificial.
+Este projeto apresenta dois vídeos curtos explorando o potencial da tecnologia de **Transferência de Arquivos por Gestos com IA**, integrada ao HarmonyOS da Huawei.
+
+A proposta é demonstrar, de forma visual e envolvente, como a inteligência artificial está transformando a interação humano-máquina, permitindo mover arquivos entre dispositivos apenas com gestos das mãos.
 
 ---
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **HeyGen** para criação de avatar virtual, narração e geração do vídeo  
+
+- **HeyGen** → Criação de avatar virtual, narração e geração de vídeo por IA  
   🔗 https://app.heygen.com/home
+  
+- **DeeVid AI** → Criação de avatar virtual, narração e geração de vídeo por IA  
+  🔗 https://deevid.ai/pt/ai-avatar
+
+- **ChatGPT** → Criação do roteiro
+
+- **Instagram** → Fonte de vídeos de apoio/demonstração da tecnologia
+
+- **InShot** → Edição e montagem do vídeo final
 
 ---
 
 ## 🧐 Processo de Criação
-Todo o processo foi realizado dentro da plataforma HeyGen.  
-A ferramenta foi responsável por:
 
-- Criação do avatar virtual  
+O projeto foi desenvolvido em duas versões audiovisuais:
+
+### 🎬 Vídeo 1 — Avatar IA (HeyGen)
+- Criação de avatar virtual  
 - Síntese de voz por IA  
-- Geração automática do roteiro  
-- Produção final do vídeo  
+- Geração automatizada do vídeo  
+- Estética futurista e institucional  
 
-Isso permitiu desenvolver o projeto de forma ágil, explorando recursos visuais e narrativos com estética futurista.
+### 🎬 Vídeo 2 — Avatar com Foto Real + Edição (DeeVid AI + InShot)
+- Utilização de foto pessoal para dar vida ao avatar  
+- Aplicação do roteiro criado com ChatGPT  
+- Inserção de vídeos demonstrativos do Instagram  
+- Edição completa realizada no InShot  
+- Ajustes de tempo, cortes e narrativa visual  
 
 ---
 
 ## 🚀 Resultados
-O resultado é um vídeo curto, dinâmico e informativo, que apresenta uma tecnologia emergente de forma acessível e impactante, destacando o potencial das IAs Generativas na criação de conteúdos audiovisuais.
 
+O projeto resultou em dois vídeos curtos e complementares:
+
+- Um com avatar totalmente gerado por IA  
+- Outro com avatar personalizado e edição manual  
+
+Ambos apresentam, de forma dinâmica, o impacto das IAs Generativas e das novas interfaces por gestos.
+
+🎥 **Vídeo 1 — HeyGen:**  
 🎬 Assista no YouTube:  
 https://youtu.be/x4OJgj26_Jk
+
+🎥 **Vídeo 2 — DeeVid AI + InShot:**  
+🎬 Assista no YouTube:  
+https://youtu.be/urNhMuajOQQ
 
 ---
 
 ## 💭 Reflexão
-Este projeto foi uma experiência enriquecedora na criação de storytelling visual com IA. Utilizar ferramentas generativas para produzir um vídeo completo — do roteiro à apresentação — evidenciou como essas tecnologias estão transformando a maneira de comunicar ideias e inovações.
+
+Criar duas versões do mesmo tema permitiu explorar diferentes abordagens de produção com IA.
+
+Enquanto o HeyGen trouxe agilidade e automação, DeeVid AI com a edição dafoto real e InShot possibilitou maior personalização e identidade visual.
+
+A experiência reforça como as IAs Generativas, combinadas com ferramentas de edição, ampliam as possibilidades de storytelling tecnológico.
