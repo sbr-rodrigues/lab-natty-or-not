@@ -53,12 +53,26 @@ Ambos apresentam, de forma dinâmica, o impacto das IAs Generativas e das novas 
 
 🎥 **Vídeo 1 — HeyGen:**  
 🎬 Assista no YouTube:  
-https://youtu.be/x4OJgj26_Jk
+
+<p align="center">
+<a href="https://youtu.be/x4OJgj26_Jk">
+<img src="https://img.youtube.com/vi/x4OJgj26_Jk/0.jpg" width="600">
+</a>
+</p>
+<p align="center">
+<a href="https://www.youtube.com/shorts/2_xWSjQRgM4">
+<img src="https://img.youtube.com/vi/2_xWSjQRgM4/0.jpg" width="600">
+</a>
+</p>
 
 🎥 **Vídeo 2 — DeeVid AI + InShot:**  
 🎬 Assista no YouTube:  
-https://youtu.be/urNhMuajOQQ
 
+<p align="center">
+<a href="https://youtu.be/urNhMuajOQQ">
+<img src="https://img.youtube.com/vi/urNhMuajOQQ/0.jpg" width="600">
+</a>
+</p>
 ---
 
 ## 💭 Reflexão
